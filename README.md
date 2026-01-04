@@ -15,4 +15,4 @@ This repository contains **Terraform configurations written in HCL** to provisio
 - AWS account with programmatic access (Access Key & Secret Key)  
 - Configured AWS CLI or environment variables for authentication  
 
-## Project Structure
+
